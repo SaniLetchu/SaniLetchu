@@ -62,21 +62,21 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cypress.svg"
+        src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/styled-components.svg"
         width="48"
         height="48"
-        alt="Cypress"
+        alt="Styled-Components"
       />
-      <br /><strong>Cypress</strong>
+      <br /><strong>Styled-Components</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+        src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/graphql.svg"
         width="48"
         height="48"
-        alt="Bootstrap"
+        alt="GraphQL"
       />
-      <br /><strong>Bootstrap</strong>
+      <br /><strong>GraphQL</strong>
     </td>
   </tr>
   <tr>
