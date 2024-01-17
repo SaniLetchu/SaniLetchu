@@ -26,12 +26,12 @@
 
 ## Education
 
-- 📖 **Bachelor's in Chemical engineering**\
-📆 2018 - 2023\
-📍 **Aalto University** - Espoo, Finland
-
 - 📖 **Master's in Software and Service Engineering**\
 📆 2022 - moment\
+📍 **Aalto University** - Espoo, Finland
+
+- 📖 **Bachelor's in Chemical engineering**\
+📆 2018 - 2023\
 📍 **Aalto University** - Espoo, Finland
 
 ## Experience
