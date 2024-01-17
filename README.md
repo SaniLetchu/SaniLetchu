@@ -41,7 +41,7 @@
 <img align="right" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
 
 - 👨‍💻 **Consultant/System tester**\
-📆 2021 - 2023\
+📆 2023 - moment\
 📍 **Accenture** - Helsinki, Finland
 
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
