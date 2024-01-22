@@ -40,7 +40,7 @@
 <img align="right" src="https://img.shields.io/badge/confluence-%23172BF4.svg?logo=confluence&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Jira-0052CC?logo=Jira&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/salesforce-%2300A1E0.svg?logo=salesforce&logoColor=white" />
-<img align="right" src="https://camo.githubusercontent.com/db433458f890fa1efe84373e481d4cc6722adf4f8d58b54a449080dd4045c327/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546573745261696c2d3635433137392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d546573745261696c266c6f676f436f6c6f723d7768697465" />
+<img align="right" src="https://img.shields.io/badge/Testrail-%231A1F71.svg?logo=testrail&logoColor=green" />
 
 - 👨‍💻 **Consultant/System tester**\
 📆 2023 - moment\
