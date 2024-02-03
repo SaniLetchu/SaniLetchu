@@ -37,9 +37,9 @@
 ## Experience
 
 <img align="right" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?logo=microsoft-teams&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/confluence-%23172BF4.svg?logo=confluence&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Confluence-%23172BF4.svg?logo=confluence&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Jira-0052CC?logo=Jira&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/salesforce-%2300A1E0.svg?logo=salesforce&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Salesforce-%2300A1E0.svg?logo=salesforce&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Testrail-%231A1F71.svg?logo=testrail&logoColor=green" />
 
 - 👨‍💻 **Consultant/System tester**\
@@ -48,7 +48,7 @@
 
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/firebase-ffca28?logo=firebase&logoColor=black" />
+<img align="right" src="https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=black" />
 <img align="right" src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" />
 <img align="right" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
 
@@ -68,7 +68,7 @@
 **Programming**
 
 <img align="right" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
-<img align="right" src="https://img.shields.io/badge/mac%20os-000000?logo=apple&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 
 **Operating Systems**
